@@ -18,6 +18,10 @@ int main()
     {
       comprobante = true;
     }
+
+    //ejercicio 4 cambio en branch
+
+    float cambio = 0.4f;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
