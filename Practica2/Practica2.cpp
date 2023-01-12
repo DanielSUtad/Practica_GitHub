@@ -11,6 +11,11 @@ int main()
 
     int valor = 0;
     bool comprobante = false;
+
+    if (valor > 1)
+    {
+      comprobante = true;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
