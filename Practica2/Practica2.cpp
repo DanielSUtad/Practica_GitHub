@@ -10,6 +10,7 @@ int main()
     // Ejercicio 1 varios commits
 
     int valor = 0;
+    bool comprobante = false;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
