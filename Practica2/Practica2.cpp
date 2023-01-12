@@ -6,6 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    // Ejercicio 1 varios commits
+
+    int valor = 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
