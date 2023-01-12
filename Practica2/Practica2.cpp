@@ -9,7 +9,7 @@ int main()
 
     // Ejercicio 1 varios commits
 
-    int valor = 0;
+    int valor = -3;
     bool comprobante = false;
 
     if (valor > 1)
